@@ -1,0 +1,866 @@
+[
+  {
+    "name": "800x600-1-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 800,
+    "screenHeight": 600,
+    "dpr": 1,
+    "availableWidth": 790,
+    "availableHeight": 554
+  },
+  {
+    "name": "800x600-1-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 800,
+    "screenHeight": 600,
+    "dpr": 1,
+    "availableWidth": 790,
+    "availableHeight": 554
+  },
+  {
+    "name": "800x600-1.25-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 640,
+    "screenHeight": 480,
+    "dpr": 1.25,
+    "availableWidth": 630,
+    "availableHeight": 434
+  },
+  {
+    "name": "800x600-1.25-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 640,
+    "screenHeight": 480,
+    "dpr": 1.25,
+    "availableWidth": 630,
+    "availableHeight": 434
+  },
+  {
+    "name": "800x600-1.5-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 533,
+    "screenHeight": 400,
+    "dpr": 1.5,
+    "availableWidth": 523,
+    "availableHeight": 354
+  },
+  {
+    "name": "800x600-1.5-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 533,
+    "screenHeight": 400,
+    "dpr": 1.5,
+    "availableWidth": 523,
+    "availableHeight": 354
+  },
+  {
+    "name": "800x600-2-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 400,
+    "screenHeight": 300,
+    "dpr": 2,
+    "availableWidth": 390,
+    "availableHeight": 254
+  },
+  {
+    "name": "800x600-2-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 400,
+    "screenHeight": 300,
+    "dpr": 2,
+    "availableWidth": 390,
+    "availableHeight": 254
+  },
+  {
+    "name": "1920x1080-1-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 1920,
+    "screenHeight": 1080,
+    "dpr": 1,
+    "availableWidth": 1910,
+    "availableHeight": 1034
+  },
+  {
+    "name": "1920x1080-1-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 1920,
+    "screenHeight": 1080,
+    "dpr": 1,
+    "availableWidth": 1910,
+    "availableHeight": 1034
+  },
+  {
+    "name": "1920x1080-1.25-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 1536,
+    "screenHeight": 864,
+    "dpr": 1.25,
+    "availableWidth": 1526,
+    "availableHeight": 818
+  },
+  {
+    "name": "1920x1080-1.25-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 1536,
+    "screenHeight": 864,
+    "dpr": 1.25,
+    "availableWidth": 1526,
+    "availableHeight": 818
+  },
+  {
+    "name": "1920x1080-1.5-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 1280,
+    "screenHeight": 720,
+    "dpr": 1.5,
+    "availableWidth": 1270,
+    "availableHeight": 674
+  },
+  {
+    "name": "1920x1080-1.5-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 1280,
+    "screenHeight": 720,
+    "dpr": 1.5,
+    "availableWidth": 1270,
+    "availableHeight": 674
+  },
+  {
+    "name": "1920x1080-2-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 960,
+    "screenHeight": 540,
+    "dpr": 2,
+    "availableWidth": 950,
+    "availableHeight": 494
+  },
+  {
+    "name": "1920x1080-2-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 960,
+    "screenHeight": 540,
+    "dpr": 2,
+    "availableWidth": 950,
+    "availableHeight": 494
+  },
+  {
+    "name": "3840x2160-1-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 3840,
+    "screenHeight": 2160,
+    "dpr": 1,
+    "availableWidth": 3830,
+    "availableHeight": 2114
+  },
+  {
+    "name": "3840x2160-1-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 3840,
+    "screenHeight": 2160,
+    "dpr": 1,
+    "availableWidth": 3830,
+    "availableHeight": 2114
+  },
+  {
+    "name": "3840x2160-1.25-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 3072,
+    "screenHeight": 1728,
+    "dpr": 1.25,
+    "availableWidth": 3062,
+    "availableHeight": 1682
+  },
+  {
+    "name": "3840x2160-1.25-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 3072,
+    "screenHeight": 1728,
+    "dpr": 1.25,
+    "availableWidth": 3062,
+    "availableHeight": 1682
+  },
+  {
+    "name": "3840x2160-1.5-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 2560,
+    "screenHeight": 1440,
+    "dpr": 1.5,
+    "availableWidth": 2550,
+    "availableHeight": 1394
+  },
+  {
+    "name": "3840x2160-1.5-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 2560,
+    "screenHeight": 1440,
+    "dpr": 1.5,
+    "availableWidth": 2550,
+    "availableHeight": 1394
+  },
+  {
+    "name": "3840x2160-2-playing",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 1920,
+    "screenHeight": 1080,
+    "dpr": 2,
+    "availableWidth": 1910,
+    "availableHeight": 1034
+  },
+  {
+    "name": "3840x2160-2-paused",
+    "buttons": [
+      {
+        "button": "transport1",
+        "centerY": 108.5,
+        "x": 103,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      },
+      {
+        "button": "transport2",
+        "centerY": 109,
+        "x": 139.390625,
+        "y": 90,
+        "width": 40.796875,
+        "height": 38
+      },
+      {
+        "button": "transport3",
+        "centerY": 108.5,
+        "x": 186.1875,
+        "y": 92,
+        "width": 30.390625,
+        "height": 33
+      }
+    ],
+    "cardWidth": 320,
+    "cardHeight": 144,
+    "screenWidth": 1920,
+    "screenHeight": 1080,
+    "dpr": 2,
+    "availableWidth": 1910,
+    "availableHeight": 1034
+  }
+]
